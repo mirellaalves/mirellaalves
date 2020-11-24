@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou **Mirella**, estudante de Desenvolvimento Web e de Software na Trybe.
+Sou **Mirella**, estudante de Desenvolvimento de Software Web na Trybe.
 
 Estou aprendendo e aprimorando linguagens e frameworks, como:
 
