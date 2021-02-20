@@ -17,4 +17,4 @@ Estou aprendendo e aprimorando linguagens e frameworks, como:
 - MVC, MSC, Rest, SOLID
 - Soquets
 
-[! [Estatísticas do Github] ( https://github-readme-stats.vercel.app/api ? Username = mirellaalves )] ( https://github.com/mirellaalves/github-readme-stats )
+<img align="left" alt="Mirella's GitHub Stats" src="https://github-readme-stats.mirellaalves.vercel.app/api/?username=mirellaalves&show_icons=true&theme=radical&hide_border=true" />
