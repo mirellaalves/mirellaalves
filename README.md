@@ -1,8 +1,8 @@
-### Olá 👋
+### Olá!
 
-Sou **Mirella**, estudante de Desenvolvimento de Software Web na Trybe.
+#### Sou **Mirella**, estudante de Desenvolvimento de Software Web na Trybe.
 
-Sempre aprendendo e aprimorando:
+#### Sempre aprendendo e aprimorando:
 
 - Unix, Bash e Shell Script
 - Git, GitHub e Internet
