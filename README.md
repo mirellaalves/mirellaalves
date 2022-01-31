@@ -1,6 +1,6 @@
 ### Olá!
 
-#### Sou **Mirella**, estudante de Desenvolvimento de Software Web na Trybe.
+#### Sou **Mirella**, Desenvolvedora Web na BKPi.
 
 #### Sempre aprendendo e aprimorando:
 
